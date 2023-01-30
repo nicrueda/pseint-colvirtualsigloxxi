@@ -1,5 +1,5 @@
 Algoritmo ejercicioCondicional
-	// Este programa permite determinar si el alumno aprobó o no el año para ser promovido de curso.
+	// Este programa permite determinar si el alumno aprobÃ³ o no el aÃ±o para ser promovido de curso.
 		Definir periodo1, periodo2, periodo3, periodo4, promedioFinal Como Real;
 		Definir nombreAlumno como Cadena;
 		Escribir ("Digite el nombre del alumno: ");
@@ -15,10 +15,9 @@ Algoritmo ejercicioCondicional
 		promedioFinal=(periodo1+periodo2+periodo3+periodo4)/4;
 		Si (promedioFinal >= 3) Entonces
 			Escribir ("El alumno "),(nombreAlumno),(" obtuvo un promedio final de: "),(promedioFinal),(".");
-			Escribir ("AÑO ESCOLAR: PROMOVIDO");
+			Escribir ("AÃ‘O ESCOLAR: PROMOVIDO");
 		SiNo
 			Escribir ("El alumno "),(nombreAlumno),(" obtuvo un promedio final de: "),(promedioFinal),(".");
-			Escribir ("AÑO ESCOLAR: REPROBADO");
+			Escribir ("AÃ‘O ESCOLAR: REPROBADO");
 		FinSi
 FinAlgoritmo
-	
