@@ -17,7 +17,9 @@ distancia recorrida = velocidad(m/s) * tiempo(s)
 
 ## Ejercicio condicional
 Para el caso del ejercicio condicional, decidí realizar un programa que permita al docente ingresar el nombre del estudiante y las 4 definitivas de cada periodo escolar. De esta forma se genera un promedio y se determina si es promovido o no.
+
 ![PSEINT CODE SCREENSHOT](https://files.fm/thumb_show.php?i=rtr24rb8e)
+
 El criterio que se tiene en cuenta es que si el estudiante tiene un promedio mayor o igual a 3.0 es **promovido** sino es **reprobado**.
 ## Ejercicio IMC
 
